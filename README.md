@@ -70,7 +70,7 @@ I learnt how to submit my projects
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](images/project-screeshot.png)
+- ![GitHub Remote URL](images/project-screenshot.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
