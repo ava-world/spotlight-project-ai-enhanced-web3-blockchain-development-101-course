@@ -27,45 +27,45 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 ### SECTION 2: SMART CONTRACTS UNVEILED
 **Smart Contracts Explained: The Building Blocks of Web3**
 - Response: 
-I learnt about smart contract
+I learnt about smart contracts
 
 ### SECTION 3: DIVE INTO BLOCKCHAIN PLATFORMS
 **Bitcoin Blockchain: The Origin and Evolution of the First Cryptocurrency**
 - Response: 
-
+I learnt about Bitcoin advent
 **Ethereum Ecosystem: A Deep Dive into EVM Blockchains**
 - Response: 
-
+I learnt about how Ethereum introduced smart contract on blockchain 
 **Solana Ecosystem: The High-Speed Blockchain Network**
 - Response: 
-
+I learnt about the unique scalability on solana
 ### SECTION 4: DECODING DAPPS
 **dApps Decoded: Unpacking Decentralized Applications**
 - Response: 
-
+I learnt about the difference between DAPPS and APP
 ### SECTION 5: TOP WEB3 PROGRAMMING LANGUAGES
 **Vanilla Solidity: Smart Contract Language of Ethereum/EVM Smart Contracts**
 - Response: 
-
+I learnt about the difference between smart contracts
 **Solang Solidity for Solana: Adapting Solidity for Non-EVM Blockchains**
 - Response: 
-
+I learnt how solang help solidity devs transition 
 ### SECTION 6: SETUP WEB3 DEVELOPMENT ENVIRONMENT
 **Web3 Developer Toolbox: Setting up Web3 Development Environment (Ethereum/Solana)**
 - Response: 
-
+I learnt about developer tools for web3 development
 ### SECTION 7: GIT & GITHUB FOR WEB3 DEVELOPMENT COLLABORATION
 **Introduction To Git & GitHub for Web3 Development**
 - Response: 
-
+I understood the difference between git and github
 ### SECTION 8: AI TOOLS FOR WEB3 DEVELOPMENT
 **Introduction To AI Tools For Web3 Development**
 - Response: 
-
+I saw how AI can facilitate and help my development journey
 ### SECTION 9: COURSE PROJECT
 **Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course**
 - Response: 
-
+I learnt how to submit my projects
 ## Screenshot Submission:
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
